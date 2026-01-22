@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+data/captured_faces/
+data/recordings/
+data/logs/
